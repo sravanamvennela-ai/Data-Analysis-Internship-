@@ -2,7 +2,7 @@
 📊 Python Learning Journey (Core → Matplotlib)
 This repository documents my Python learning journey — starting from core Python fundamentals to data visualization using Matplotlib. It contains practice programs, examples, and mini exercises that helped me build a strong foundation.
 🚀 About Me
-Hi, I'm S. R. Srujana, a final-year B.Com (Computer Applications) student interested in tech and data analysis. This repo reflects my hands-on learning in Python.
+Hi, I'm S.Vennela, a final-year B.Com (Computer Applications) student interested in tech and data analysis. This repo reflects my hands-on learning in Python.
 📚 Topics Covered
 🐍 Core Python
 Variables and Data Types
